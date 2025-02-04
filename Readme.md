@@ -1,4 +1,4 @@
-# Validador de Cartões de Crédito
+# Validador de bandeira de Cartões de Crédito
 
 Este projeto é um validador de cartões de crédito que identifica a bandeira do cartão com base no número fornecido.
 
